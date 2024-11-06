@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestionCouleursPeinture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9520b1eee557ce8b0cfb350ce3572cfbb636375b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2127ffc76dbeb1686fb6e2e92a4cdc103239c97f")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestionCouleursPeinture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestionCouleursPeinture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
