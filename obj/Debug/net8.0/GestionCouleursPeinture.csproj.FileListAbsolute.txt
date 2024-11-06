@@ -1,0 +1,15 @@
+/workspaces/GestionCouleursPeinture/GestionCouleursPeinture/bin/Debug/net8.0/GestionCouleursPeinture
+/workspaces/GestionCouleursPeinture/GestionCouleursPeinture/bin/Debug/net8.0/GestionCouleursPeinture.deps.json
+/workspaces/GestionCouleursPeinture/GestionCouleursPeinture/bin/Debug/net8.0/GestionCouleursPeinture.runtimeconfig.json
+/workspaces/GestionCouleursPeinture/GestionCouleursPeinture/bin/Debug/net8.0/GestionCouleursPeinture.dll
+/workspaces/GestionCouleursPeinture/GestionCouleursPeinture/bin/Debug/net8.0/GestionCouleursPeinture.pdb
+/workspaces/GestionCouleursPeinture/GestionCouleursPeinture/obj/Debug/net8.0/GestionCouleursPeinture.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/GestionCouleursPeinture/GestionCouleursPeinture/obj/Debug/net8.0/GestionCouleursPeinture.AssemblyInfoInputs.cache
+/workspaces/GestionCouleursPeinture/GestionCouleursPeinture/obj/Debug/net8.0/GestionCouleursPeinture.AssemblyInfo.cs
+/workspaces/GestionCouleursPeinture/GestionCouleursPeinture/obj/Debug/net8.0/GestionCouleursPeinture.csproj.CoreCompileInputs.cache
+/workspaces/GestionCouleursPeinture/GestionCouleursPeinture/obj/Debug/net8.0/GestionCouleursPeinture.sourcelink.json
+/workspaces/GestionCouleursPeinture/GestionCouleursPeinture/obj/Debug/net8.0/GestionCouleursPeinture.dll
+/workspaces/GestionCouleursPeinture/GestionCouleursPeinture/obj/Debug/net8.0/refint/GestionCouleursPeinture.dll
+/workspaces/GestionCouleursPeinture/GestionCouleursPeinture/obj/Debug/net8.0/GestionCouleursPeinture.pdb
+/workspaces/GestionCouleursPeinture/GestionCouleursPeinture/obj/Debug/net8.0/GestionCouleursPeinture.genruntimeconfig.cache
+/workspaces/GestionCouleursPeinture/GestionCouleursPeinture/obj/Debug/net8.0/ref/GestionCouleursPeinture.dll
